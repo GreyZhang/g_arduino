@@ -1,0 +1,7 @@
+* 资料以及工具的准备
+** 硬件信息
+- ARDUINO UNO
+** 资料
+** 工具
+- 获取方式： https://www.arduino.cc/
+- 软件版本： arduino-1.8.9-windows
