@@ -2,6 +2,10 @@
 ** 硬件信息
 - ARDUINO UNO
 ** 资料
+- 1. 增加原理图文件，来自Arduino官网。（Arduino_Uno_Rev3-schematic.pdf）
+- 2. 增加主芯片的手册，来自microchip官网。（ATmega328PB-Automotive-Data-Sheet-40001980B.pdf）
+- 3. 增加主芯片相关的pin脚定义文件，来自于Arduino官网。（pin_maping.PNG）
+- 4. 增加技术参数表（技术参数表.PNG）
 ** 工具
 - 获取方式： https://www.arduino.cc/
 - 软件版本： arduino-1.8.9-windows
