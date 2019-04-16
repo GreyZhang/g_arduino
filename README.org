@@ -26,9 +26,11 @@
 - 参数表
 *** arduino-002 LED闪烁练习
 - LED闪烁代码
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89323445
 *** arduino_003_serial 串口初步
 - 初始化
 - 打印
 - 格式化打印
 - 读取以及数据接收判断
 - 写入
+- 总结测试博客地址： https://blog.csdn.net/grey_csdn/article/details/89343631
