@@ -24,6 +24,7 @@
 - 串口驱动
 - 原理图
 - 参数表
+- 串口签名问题解决： https://blog.csdn.net/grey_csdn/article/details/89366882
 *** arduino-002 LED闪烁练习
 - LED闪烁代码
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89323445
@@ -34,3 +35,6 @@
 - 读取以及数据接收判断
 - 写入
 - 总结测试博客地址： https://blog.csdn.net/grey_csdn/article/details/89343631
+*** arduino_004_interrupt_and_timer 中断以及计数器
+- 测试了计数器的读取
+- 尝试做了一个调度器，观察到了定时不准确的状态，或许一个准确的调度还得自己改定时器中断
