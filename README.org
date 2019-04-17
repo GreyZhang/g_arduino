@@ -38,3 +38,4 @@
 *** arduino_004_interrupt_and_timer 中断以及计数器
 - 测试了计数器的读取
 - 尝试做了一个调度器，观察到了定时不准确的状态，或许一个准确的调度还得自己改定时器中断
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89367473
