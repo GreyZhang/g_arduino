@@ -40,3 +40,8 @@
 - 测试了计数器的读取
 - 尝试做了一个调度器，观察到了定时不准确的状态，或许一个准确的调度还得自己改定时器中断
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89367473
+- 应该选择什么资源用于设计任务调度：https://blog.csdn.net/grey_csdn/article/details/89389229
+*** arduino_005_timer
+- 实现了1ms的精准中断，使用LED闪烁以及串口打印计数器做了简单的验证。
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89390577
+
