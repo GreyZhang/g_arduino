@@ -47,3 +47,8 @@
 *** arduino_006 通用数据类型探索
 - 本来想自己构建一个通用的数据类型，但是发现其实Arduino的开发环境中其实已经存在了。
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89407855
+*** arduino_007 任务调度实现
+- 一个粗糙的任务调度
+- 尝试了多文件管理
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89409407
+
