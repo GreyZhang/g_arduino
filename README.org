@@ -44,4 +44,6 @@
 *** arduino_005_timer
 - 实现了1ms的精准中断，使用LED闪烁以及串口打印计数器做了简单的验证。
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89390577
-
+*** arduino_006 通用数据类型探索
+- 本来想自己构建一个通用的数据类型，但是发现其实Arduino的开发环境中其实已经存在了。
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89407855
