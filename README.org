@@ -5,7 +5,7 @@
 - 使用的是AVR单片机，MacroChip的Atmega328PB，16MHZ的主频，32K FLASH，2K RAM、1KEEPROM。说起来，资源量还是不错的。
 ** TDL
 - 1. 找到原理图、开发工具(DONE)
-- 2. 完成hello world的程序
+- 2. 完成hello world的程序(DONE)
 - 3. 完成LED的闪烁(DONE)
 - 4. 延时操作
 - 5. 定时器(DONE)
@@ -53,7 +53,10 @@
 - 一个粗糙的任务调度
 - 尝试了多文件管理
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89409407
-*** HardwareSerial
+*** Arduino_008 HardwareSerial
 - 串口探索，硬件串口库使用
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89423432
+*** Arduino_009 Hello World
+- 看了下最初的计划，这是一个缺失了的小练习，增补一下只是为了能够让计划的完成更加完整一点。
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89423816
 
