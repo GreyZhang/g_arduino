@@ -7,7 +7,7 @@
 - 1. 找到原理图、开发工具(DONE)
 - 2. 完成hello world的程序(DONE)
 - 3. 完成LED的闪烁(DONE)
-- 4. 延时操作
+- 4. 延时操作(DONE)
 - 5. 定时器(DONE)
 - 6. 任务调度器(DONE)
 - 7. 串口初步(DONE)
@@ -59,4 +59,7 @@
 *** Arduino_009 Hello World
 - 看了下最初的计划，这是一个缺失了的小练习，增补一下只是为了能够让计划的完成更加完整一点。
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89423816
+*** arduino_010 延时操作
+- 测试了库中存在的两个延时函数
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89424264
 
