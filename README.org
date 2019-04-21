@@ -20,7 +20,7 @@
 - 14. EEPROM
 - 15. FLASH
 ** 具体的工作实践
-*** arduino-001 资料以及工具的准备
+*** arduino_001 资料以及工具的准备
 - 芯片手册
 - pin脚定义
 - 串口驱动
@@ -28,7 +28,7 @@
 - 参数表
 - 串口签名问题解决： https://blog.csdn.net/grey_csdn/article/details/89366882
 - 编译器、链接器工具探索以及芯片中断实现方式探索： https://blog.csdn.net/grey_csdn/article/details/89387763
-*** arduino-002 LED闪烁练习
+*** arduino_002 LED闪烁练习
 - LED闪烁代码
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89323445
 *** arduino_003_serial 串口初步
