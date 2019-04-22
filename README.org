@@ -15,7 +15,7 @@
 - 9. 几种传感器的扩展
 - 10. SPI通信（从芯片手册上看到了这个芯片是由两个SPI通道的，可能已经有现成的库里，看一下是否可以自己编程使用一下）
 - 11. 计数器实现(DONE)
-- 12. ADC
+- 12. ADC(DONE)
 - 13. IIC
 - 14. EEPROM
 - 15. FLASH
@@ -65,4 +65,6 @@
 *** arduino_011 SPI
 - Arduino SPI资源整理：https://blog.csdn.net/grey_csdn/article/details/89430999
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89463092
+*** arduino_012 ADC
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89465120
 
