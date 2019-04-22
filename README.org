@@ -2,7 +2,7 @@
 ** 简介
 - 近段时间感觉时间全都耗费在了公司，也不是一个很好的状态。自己的生活空间全都压榨没了，接下来还是得给自己找点东西做一下。想到自己的手中还有一个小小的Arduino，开始折腾一下吧！
 - Arduino是一个开源的软硬件平台，使用C++作为主要的编程语言，官方的IDE基于avr-g++。有现成的库可以使用芯片的各个功能，开发板可以方便扩展各种传感器以及执行器，可以快速设计自己的功能。
-- 使用的是AVR单片机，MacroChip的Atmega328PB，16MHZ的主频，32K FLASH，2K RAM、1KEEPROM。说起来，资源量还是不错的。
+- 使用的是AVR单片机，MacroChip的Atmega328PB，16MHZ的主频，32K FLASH，2K RAM、1K EEPROM。说起来，资源量还是不错的。
 ** TDL
 - 1. 找到原理图、开发工具(DONE)
 - 2. 完成hello world的程序(DONE)
@@ -11,7 +11,7 @@
 - 5. 定时器(DONE)
 - 6. 任务调度器(DONE)
 - 7. 串口初步(DONE)
-- 8. SPI
+- 8. SPI(DONE)
 - 9. 几种传感器的扩展
 - 10. SPI通信（从芯片手册上看到了这个芯片是由两个SPI通道的，可能已经有现成的库里，看一下是否可以自己编程使用一下）
 - 11. 计数器实现(DONE)
@@ -64,4 +64,5 @@
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89424264
 *** arduino_011 SPI
 - Arduino SPI资源整理：https://blog.csdn.net/grey_csdn/article/details/89430999
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89463092
 
