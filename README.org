@@ -17,8 +17,8 @@
 - 11. 计数器实现(DONE)
 - 12. ADC(DONE)
 - 13. IIC
-- 14. EEPROM(DONE)
-- 15. FLASH
+- 14. EEPROM(FEE)(DONE)
+- 15. SD CARD(NOT SUPPORT)
 ** 具体的工作实践
 *** arduino_001 资料以及工具的准备
 - 芯片手册
@@ -67,6 +67,8 @@
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89463092
 *** arduino_012 ADC
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89465120
-*** arduino_012 EEPROM
+*** arduino_012 FEE EEPROM
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89480093
+*** arduino_013 SD card
+- 目前手中的板子不支持
 
