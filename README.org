@@ -16,7 +16,7 @@
 - 10. SPI通信（从芯片手册上看到了这个芯片是由两个SPI通道的，可能已经有现成的库里，看一下是否可以自己编程使用一下）(DONE)
 - 11. 计数器实现(DONE)
 - 12. ADC(DONE)
-- 13. IIC
+- 13. IIC(DONE)
 - 14. EEPROM(FEE)(DONE)
 - 15. SD CARD(NOT SUPPORT)
 ** 具体的工作实践
