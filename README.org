@@ -12,7 +12,7 @@
 - 6. 任务调度器(DONE)
 - 7. 串口初步(DONE)
 - 8. SPI(DONE)
-- 9. 几种传感器的扩展
+- 9. 几种传感器的扩展(DONE)
 - 10. SPI通信（从芯片手册上看到了这个芯片是由两个SPI通道的，可能已经有现成的库里，看一下是否可以自己编程使用一下）(DONE)
 - 11. 计数器实现(DONE)
 - 12. ADC(DONE)
@@ -73,4 +73,6 @@
 - 目前手中的板子不支持
 *** arduino_015 IIC
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89504148
+*** arduino_016 DS1302
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89892528
 
