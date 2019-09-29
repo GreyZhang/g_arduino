@@ -19,6 +19,7 @@
 - 13. IIC(DONE)
 - 14. EEPROM(FEE)(DONE)
 - 15. SD CARD(NOT SUPPORT)
+- 16. CAN通信(DONE)
 ** 具体的工作实践
 *** arduino_001 资料以及工具的准备
 - 芯片手册
@@ -77,4 +78,5 @@
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89892528
 *** arduino_017 74HC138三选八芯片
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/89893442
-
+*** arduino_018 MCP2515实现CAN收发功能
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/101712390
