@@ -18,7 +18,7 @@
 - 12. ADC(DONE)
 - 13. IIC(DONE)
 - 14. EEPROM(FEE)(DONE)
-- 15. SD CARD(NOT SUPPORT)
+- 15. SD CARD(DONE)
 - 16. CAN通信(DONE)
 ** 具体的工作实践
 *** arduino_001 资料以及工具的准备
