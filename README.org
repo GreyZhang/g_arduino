@@ -82,3 +82,5 @@
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/101712390
 *** arduino_019 Arduino SPI扩展SD卡
 - 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/101715460
+*** arduino_020 Arduino + python分析天气变化对颈椎病的影响
+- 总结测试博客地址：https://blog.csdn.net/grey_csdn/article/details/106179906
