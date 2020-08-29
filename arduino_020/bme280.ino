@@ -20,6 +20,7 @@
 #include <SD.h>
 #include <SPI.h>
 #include <Wire.h>
+#include <stdint.h>
 
 #define BME_SCK 13
 #define BME_MISO 12
@@ -29,12 +30,11 @@
 #define SEALEVELPRESSURE_HPA (1013.25)
 
 Adafruit_BME280 bme; // I2C
-// Adafruit_BME280 bme(BME_CS); // hardware SPI
-// Adafruit_BME280 bme(BME_CS, BME_MOSI, BME_MISO, BME_SCK); // software SPI
 
 // for SD card
 const int chipSelect = 4;
-unsigned long delayTime;
+// time delay unit is ms, so this would delay 1min
+const uint32_t delayTime = 60000U;
 
 void setup()
 {
@@ -57,13 +57,6 @@ void setup()
         /* while (1) */
         /*     ; */
     }
-
-    /* Serial.println("-- Default Test --"); */
-    /* Serial.println("normal mode, 16x oversampling for all, filter off,"); */
-    /* Serial.println("0.5ms standby period"); */
-    delayTime = 5000;
-
-    /* Serial.println(); */
 }
 
 void loop()
